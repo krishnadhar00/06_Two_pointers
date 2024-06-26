@@ -1,0 +1,4 @@
+1. Two pointer is used to sort the element present inside the array.
+2. In two pointer we use two variable or pointer one is left ptr and another is right ptr.
+3. left ptr traverse the array from left side and right ptr traverse the array from right side.
+4. All zeros are come at the left side and all the ones come at the right side.
